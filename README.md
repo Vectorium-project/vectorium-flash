@@ -16,4 +16,4 @@ The main reasons are the follows:
 - The blockchain is private and belong to Vectorium company; Anyway the mining is free and anyone with a graphics card can participate in mining;
 
 
-- When the hashrate will be high, for more block distribution the miners will be paused and in the meantime they'll able to undermine other coins.
+- When the hashrate will be high, for more blocks distribution the miners will be paused and in the meantime they'll able to undermine other coins.
