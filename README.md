@@ -1,8 +1,6 @@
-We decided to not publish the Vectorium flash's source code. 
+This version of Vectorium cryptocurrency is based on Zcash 2.0.2 source code, introducing overwinter and sapling support keeping Vectorium PoW algorithm and consensus rules.
 
-
-The main reasons are the follows:
-
+Vectorium flash's source code goals. 
 
 - Make the blockchain as distributed as possible (minable blocks will be distributed in the most decentralized way possible, via secured solo pools);
 
