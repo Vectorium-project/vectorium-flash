@@ -54,7 +54,7 @@ brew install wget llvm
 
 ### Check GCC version
 
-gcc/g++ 4.9 or later is required. SnowGem has been successfully built using gcc/g++ versions 4.9 to 7.x inclusive. Use ```g++ --version``` to check which version you have.
+gcc/g++ 4.9 or later is required. Vectorium Flash has been successfully built using gcc/g++ versions 4.9 to 7.x inclusive. Use ```g++ --version``` to check which version you have.
 
 On Ubuntu Trusty, if your version is too old then you can install gcc/g++ 4.9 as follows:
 
@@ -81,7 +81,7 @@ $ chmod +x src/leveldb/build_detect_platform zcutil/build.sh zcutil/fetch-params
 $ ./zcutil/build.sh --disable-tests
 ```
 
-This should compile our dependencies and build snowgemd
+This should compile our dependencies and build vectoriumd
 
 ### Build Windows
 
